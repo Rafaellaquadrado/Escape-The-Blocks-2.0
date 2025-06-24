@@ -41,7 +41,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/Rafaellaquadrado/Escape-The-Blocks-2.0.git
 Acesse a pasta do projeto:
 
 bash
